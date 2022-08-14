@@ -1,2 +1,2 @@
 # pihole_docker
-In this repository Iam trying to show the docker-compose file  without ports confict
+In this repository I am running a docker-compose file  without ports confict
